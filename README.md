@@ -15,7 +15,7 @@ Feel free to use this when creating own projects.
 1. **Clone the repository:**
    ```sh
    git clone https://github.com/DanielEkerhovd/Vite-React-Tailwind.git
-   cd your-repository
+   cd Vite-React-Tailwind
    ```
 2. **Install dependencies:**
    ```sh
