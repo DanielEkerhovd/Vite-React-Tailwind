@@ -1,4 +1,4 @@
-# React + Vite Template
+# React + Vite + Tailwind || A template by Daniel
 
 This is a template repository for starting a React project with Vite. It includes TailwindCSS, PostCSS, Autoprefixer, Prettier, Husky, Lint-staged, and React Router.
 Feel free to use this when creating own projects.
